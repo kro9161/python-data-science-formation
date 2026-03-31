@@ -1,0 +1,13 @@
+show_id,type,title,country,release_year,duration
+s1,Movie,Inception,United States,2010,148 min
+s2,Movie,Parasite,South Korea,2019,132 min
+s3,Movie,The Irishman,United States,2019,209 min
+s4,Movie,Roma,Mexico,2018,135 min
+s5,Movie,Dangal,India,2016,161 min
+s6,Movie,Intouchables,France,2011,112 min
+s7,Movie,Spirited Away,Japan,2001,125 min
+s8,Movie,Amélie,France,2001,122 min
+s9,TV Show,Dark,Germany,2017,3 Seasons
+s10,TV Show,Money Heist,Spain,2017,5 Seasons
+s11,TV Show,Lupin,France,2021,2 Seasons
+s12,TV Show,Stranger Things,United States,2016,4 Seasons
